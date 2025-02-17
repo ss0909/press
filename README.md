@@ -23,6 +23,8 @@ This project exists thanks to all the people who contribute and who have contrib
 
 Would you like to help? [Here is how you can start ›](https://github.com/ClassicPress/ClassicPress/blob/develop/.github/CONTRIBUTING.md)
 
+#myproject
+
 
 ## Sponsors
 Corporate sponsors that believe in ClassicPress. [Become a sponsor ›](https://opencollective.com/classicpress)
