@@ -17,7 +17,7 @@ For more information, see:
 - [The ClassicPress governance ›](https://www.classicpress.net/governance/)
 - [Suggest features ›](https://github.com/ClassicPress/ClassicPress/issues/)
 
-## Contributions
+#contri
 
 This project exists thanks to all the people who contribute and who have contributed in the past, whether as part of the long history of thousands of contributions to WordPress from many different people, or as contributions to ClassicPress itself.
 
